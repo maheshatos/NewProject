@@ -4,6 +4,7 @@ public class TestClass {
 
 	public int test()
 	{
+		int a=100;
 		return 100;
 	}
 	public String fun()
